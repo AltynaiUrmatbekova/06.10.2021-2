@@ -1,0 +1,42 @@
+#example-1 {
+  color: white;
+  background-color: red;
+  width: 200px;
+  /*height: 100px;*/
+  border: 10px solid black (147, 147, 158);
+  border-radius: 30px;
+  padding: 25px;
+  margin: 30px;
+}
+h1 {
+  color: white;
+  background-color: tomato;
+  width: 200px;
+  padding: 30px;
+  margin: 25px;
+  border-radius: 200%;
+  text-align: center;
+}
+div {
+  background-color: turquoise;
+  color: red;
+  width: 300px;
+  border-radius: 20px;
+  margin: 25px;
+  padding: 25px;
+}
+address {
+  color: white;
+  background-color: black;
+  width: 200px;
+  margin: 10px;
+  padding: 20px;
+}
+h5 {
+  color: white;
+  width: 500px;
+  background-color: crimson;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
