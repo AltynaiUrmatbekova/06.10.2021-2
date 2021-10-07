@@ -2,11 +2,13 @@
   color: white;
   background-color: red;
   width: 200px;
+  padding: 30px;
+  margin: 20px;
   /*height: 100px;*/
-  border: 10px solid black (147, 147, 158);
-  border-radius: 30px;
-  padding: 25px;
-  margin: 30px;
+  border-radius: 100px;
+  border: dotted 10px blue;
+  
+  
 }
 h1 {
   color: white;
@@ -22,12 +24,14 @@ div {
   color: red;
   width: 300px;
   border-radius: 20px;
+  border: solid 10px yellow;
   margin: 25px;
   padding: 25px;
 }
 address {
   color: white;
   background-color: black;
+  border: solid 5px tomato;
   width: 200px;
   margin: 10px;
   padding: 20px;
@@ -35,8 +39,69 @@ address {
 h5 {
   color: white;
   width: 500px;
+  text-align: center;
   background-color: crimson;
   border-radius: 10px;
+  border: dashed 10px purple;
   margin: 10px;
   padding: 10px;
+}
+.example-1 {
+  color: white;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  border: solid 10 px blanchedalmond;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 13em/3em;
+  border: solid 10px black;
+}
+.example-2 {
+  color: white;
+  background-color: tomato;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  border: dotted 10 px palegreen;
+  margin: 10px;
+  padding: 20px;
+  border-radius: solid 10 px 20px 30px 40px;
+  border: dashed 10px black;
+}
+.example-3 {
+  color: white;
+  background-color:pink;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+    margin: 10px;
+  padding: 20px;
+  border-radius: 100px;
+  border: dotted 10px black;
+}
+.example-4 {
+  color: white;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  border: solid 10 px blanchedalmond;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 13em/3em;
+  border: double 10px;
+}
+.example-5 {
+  color: white;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  border: solid 10 px blanchedalmond;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 13em/3em;
+  border: unset 10px black;
 }
